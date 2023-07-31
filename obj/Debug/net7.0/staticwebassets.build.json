@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "luDdZ5N7hI9CxyN/6tOWlleaj/tQxKJiJUVHP1ELvw8=",
+  "Source": "cs-service",
+  "BasePath": "_content/cs-service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
